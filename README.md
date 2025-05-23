@@ -1,12 +1,6 @@
 # NextWeekend
 En webbapplikation som hjälper dig att hitta event inför den stundande helgen baserat på dina intressen!
 
-## Getting Started
-
-cd NextWeekend
-npm install
-npm run dev
-
 ### Installing
 
 Gå till projektmappen
@@ -21,7 +15,6 @@ Starta servern
 ```
 npm run dev
 ```
-
 
 ## Built With
 * 
