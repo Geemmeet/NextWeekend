@@ -1,6 +1,7 @@
 # NextWeekend
 A web application that helps you find events for the upcoming weekend based on your interests!
 
+## Before following the installation steps
 In order to be able to run the project you need to have:
 * [Node.js](https://nodejs.org/) (npm is included by default)
 * A package manager like **npm**, **yarn**, or **pnpm**
