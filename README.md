@@ -1,23 +1,28 @@
 # NextWeekend
-En webbapplikation som hjälper dig att hitta event inför den stundande helgen baserat på dina intressen!
+A web application that helps you find events for the upcoming weekend based on your interests!
+
+In order to be able to run the project you need to have:
+* [Node.js](https://nodejs.org/) (npm is included by default)
+* A package manager like **npm**, **yarn**, or **pnpm**
 
 ### Installing
 
-Gå till projektmappen
+Go to the project root directory
 ```
-cd NextWeekend
+cd nextweekend
 ```
-Installera dependencies
+Install dependencies
 ```
 npm install
 ```
-Starta servern
+Run the development server:
 ```
 npm run dev
 ```
 
 ## Built With
-* 
+* [Next.js](https://nextjs.org/)
+* [React](https://react.dev/)
 
 
 ## Authors
